@@ -1,0 +1,82 @@
+.sendMail {
+  position: absolute;
+  bottom: 0px;
+  right: 50px;
+  background-color: #404040;
+  width: 50%;
+  height: 65%;
+  max-width: 550px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(238, 236, 236);
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.24);
+}
+
+.sendMail__header {
+  padding: 10px 13px;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(189, 187, 187);
+}
+.sendMail__header > h3 {
+  color: rgb(238, 236, 236);
+  font-size: 15px;
+}
+.sendMail__close {
+  cursor: pointer;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.sendMail > form {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.sendMessage__error {
+  background-color: white;
+  color: gray;
+  text-align: right;
+  padding: 3px;
+  font-size: 10px;
+}
+.sendMail > form > input {
+  height: 30px;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid rgb(238, 236, 236);
+  outline: none;
+}
+.sendMail__message {
+  flex: 1;
+}
+.sendMail__options {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 10px;
+  color: rgb(189, 187, 187);
+}
+.sendMail__option1 {
+  display: flex;
+  flex-direction: row;
+}
+.sendMail__emoji {
+  padding-top: 20px !important;
+}
+.sendMail__emoji > .MuiSvgIcon-root {
+  padding-right: 10px !important;
+}
+.sendMail__option2 {
+  padding-left: 5px !important;
+}
+/* .sendMail__option1 > .MuiSvgIcon-root {
+    padding-top: 10px;
+  } */
+.sendMail__send {
+  background-color: #3079cd !important;
+  text-transform: capitalize !important;
+  margin: 15px !important;
+  color: rgb(238, 236, 236) !important;
+}

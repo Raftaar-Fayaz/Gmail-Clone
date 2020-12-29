@@ -1,0 +1,26 @@
+.section {
+  display: flex;
+  align-items: center;
+  border-bottom-width: 2px;
+  padding: 15px;
+  min-width: 200px;
+  cursor: pointer;
+  color: gray;
+  border-width: 0 !important;
+  margin-right: 4px;
+}
+.section > h4 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 15px;
+}
+.section--selected {
+  /* background-color: whitesmoke; */
+  border-width: 3px !important;
+  border-bottom-right-radius: 5px;
+}
+.section:hover {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+  border-bottom-right-radius: 5px;
+}

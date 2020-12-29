@@ -1,0 +1,68 @@
+.sidebar {
+  flex: 0.2;
+  max-width: 300px;
+  padding-right: 20px;
+}
+.sidebar__compose {
+  margin-top: 15px !important;
+  margin-left: 10px !important;
+  margin-bottom: 15px !important;
+  text-transform: capitalize !important;
+  color: gray;
+  padding-bottom: 8px !important;
+  padding-top: 8px !important;
+  padding-right: 20px !important;
+  padding-left: 10px !important;
+  border-radius: 30px !important;
+  border: 1px solid #f1f3f4 !important;
+  box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.75);
+  letter-spacing: 1px !important;
+}
+.compose__button {
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+.sidebar2 > h4,
+.sidebar3 > h4 {
+  font-size: 15px;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-left: 17px;
+}
+.sidebar1,
+.sidebar2,
+.sidebar3 {
+  /* border-bottom: 1px solid #f1f3f4; */
+  border-bottom: 1px solid rgb(238, 236, 236);
+}
+
+.hangouts {
+  display: flex;
+  align-items: center;
+  color: #818181;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.main {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.arrowDown {
+  padding-top: 3px;
+  padding-left: 0;
+  margin-left: 0;
+}
+.hangouts:hover {
+  background-color: #fcecec;
+  font-weight: 800 !important;
+}
+
+.sidebar__footer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
