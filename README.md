@@ -1,4 +1,4 @@
-# Amazon Clone
+# Gmail Clone
 
 
 This project is inspired by the Google Mail.<br />
