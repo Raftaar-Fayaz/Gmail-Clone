@@ -17,11 +17,11 @@ React JS, Google Firebase(Authentication, Hosting), Redux & Material UI are used
 ### SCREENSHOTS
 
 <p align="center">
-<img src="https://i.ibb.co/fkZWsZg/gmail1.png" alt="gmail1"><span>  -  </span>
-<img src="https://i.ibb.co/GcyY9GK/gmail2.png" alt="gmail2"><span>  -  </span>
-<img src="https://i.ibb.co/R6nBs5J/gmail3.png" alt="gmail3"><span>  -  </span>
-<img src="https://i.ibb.co/GcyY9GK/gmail2.png" alt="gmail2"><span>  -  </span>
-<img src="https://i.ibb.co/MnpZS8Q/gmail4.png" alt="gmail4"><span>  -  </span>
+  <img src="https://i.ibb.co/2vRrTR9/gmail1.png" alt="gmail1" border="0"><span>  -  </span>
+  <img src="https://i.ibb.co/SRbYcHh/gmail2.png" alt="gmail2" border="0"><span>  -  </span>
+  <img src="https://i.ibb.co/jwKWQpj/gmail3.png" alt="gmail3" border="0"><span>  -  </span>
+  <img src="https://i.ibb.co/SRbYcHh/gmail2.png" alt="gmail2" border="0"><span>  -  </span>
+  <img src="https://i.ibb.co/Q9npQ8t/gmail4.png" alt="gmail4" border="0"><span>  -  </span>
  </p>
  
 
